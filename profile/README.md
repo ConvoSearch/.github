@@ -15,7 +15,7 @@ ConvoSearch provides cutting-edge search and recommendation solutions for ecomme
 
 Our solutions are designed for seamless integration with your ecommerce platform. Check out our integration guides:
 
-- [Quick Start Guide](link-to-quickstart)
+- [Quick Start Guide](integration)
 - [API Documentation](link-to-api-docs)
 - [Client Libraries](link-to-clients)
 - [Implementation Examples](link-to-examples)
